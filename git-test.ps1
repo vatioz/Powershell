@@ -1,2 +1,1 @@
-sdsd
-sdbinst.exe
+"hello"
